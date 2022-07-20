@@ -6,3 +6,4 @@ The present study proposes an MPM (material point method)–FEM (finite element 
 ## Numerical examples
 ****
 ### Wave induced by underwater granular collapse
+![Image text]
