@@ -7,3 +7,6 @@ The present study proposes an MPM (material point method)–FEM (finite element 
 ****
 ### Wave induced by underwater granular collapse
 ![Image text](https://github.com/Pan-Shaoyuan/MPM-FEM-hybrid-method-for-granular-mass-water-interaction-problems/blob/main/Test%20models/submarine.jpg)
+****
+### Wave induced by underwater granular collapse
+![Image text](https://github.com/Pan-Shaoyuan/MPM-FEM-hybrid-method-for-granular-mass-water-interaction-problems/blob/main/Test%20models/subaerial.jpg)
