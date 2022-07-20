@@ -12,3 +12,10 @@ The present study proposes an MPM (material point method)–FEM (finite element 
 ### Wave induced by subaerial slide over inclined plane
 ![Image text](https://github.com/Pan-Shaoyuan/MPM-FEM-hybrid-method-for-granular-mass-water-interaction-problems/blob/main/Test%20models/subaerial.jpg)
 ![Image text](https://github.com/Pan-Shaoyuan/MPM-FEM-hybrid-method-for-granular-mass-water-interaction-problems/blob/main/Results/subaerial.gif)
+****
+## Achievement
+This research was published in the journal **Computational Mechanics** on May 13, 2021, and the publication details are shown below: <br />
+>>Title: MPM-FEM hybrid method for granular mass-water interaction problems<br />
+>>Authors: S. Pan, Y. Yamaguchi, A. Suppasri, S. Moriguchi, K. Terada<br />
+>>Journal: Computational Mechanics<br />
+>>[DOI]: 0.1007/s00466-021-02024-2
