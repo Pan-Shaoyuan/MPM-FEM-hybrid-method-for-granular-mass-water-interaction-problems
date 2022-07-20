@@ -18,4 +18,4 @@ This research was published in the journal **Computational Mechanics** on May 13
 >>Title: MPM-FEM hybrid method for granular mass-water interaction problems<br />
 >>Authors: S. Pan, Y. Yamaguchi, A. Suppasri, S. Moriguchi, K. Terada<br />
 >>Journal: Computational Mechanics<br />
->>[DOI]: 0.1007/s00466-021-02024-2
+>>[DOI]: (0.1007/s00466-021-02024-2)
